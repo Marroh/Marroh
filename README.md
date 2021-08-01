@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marroh, a graduate student in CASIA.
 - 👀 I’m interested in RL and CV.
-- 🌱 I’m currently learning multi-agent RL.
+- 🌱 I’m currently working on MARL.
 - 📫 You can reach me at mahao2021@ia.ac.cn
 
 <!---
