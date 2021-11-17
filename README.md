@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marroh, a graduate student in Chinese Academic of Science Intitute of Automation(CASIA).
+- 👋 Hi, I’m @Marroh, a graduate student in Chinese Academic of Science, Intitute of Automation(CASIA).
 - 👀 I’m interested in RL and CV.
 - 🌱 And doing research on MARL.
 - 📫 If you have any questions about my repository or are willing to cooperate with me, please reach me at hao.ma.work@qq.com
