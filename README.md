@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a graduate student in Chinese Academic of Science, Intitute of Automation(CASIA).
+- 👋 Hi, I’m a master student at Chinese Academic of Science, Intitute of Automation(CASIA).
 - 👀 With a background in CV & RL.
 - 🌱 My current research interests are MARL & Causal Inference.
 - 📫 Reach me at hao.ma.work@qq.com
